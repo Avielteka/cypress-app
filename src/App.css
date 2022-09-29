@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+nav{
+  text-decoration: none;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ list-style: none; 
+ justify-content: space-around;
+}
+li{
+  background-color: black;
+  color: #61dafb;
+}
